@@ -2,7 +2,7 @@
   TinyCircuits Tiny Arcade Video Player
   
   Changelog:
-    1.0.3 15 Nov 3018 - Add option for TinyScreen+ button input
+    1.0.3 15 Nov 2018 - Add option for TinyScreen+ button input
     1.0.2 10 April 2017 - Cleanup, add messages about SD card/video detection
     1.0.1 3 October 2016 - Add compatibility for new Arcade revision, change
           folder structure for IDE compatibility
