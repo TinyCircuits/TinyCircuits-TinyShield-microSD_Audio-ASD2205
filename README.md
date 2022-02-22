@@ -1,7 +1,6 @@
-# TinyCircuits TinyShield microSD and Audio Adapter Board
-# ASD2205 Rev2
+# TinyCircuits TinyShield microSD and Audio Adapter Board - ASD2205 Rev3
 
-The design files are located under design_files/ for the TinyCircuits ASD2205 Rev 2 PCB.  This is a TinyShield board that has a microSD connector, local power supply and level shifters to connect to a microSD card and an audio amplifier.
+The design files are located under design_files/ for the TinyCircuits ASD2205 Rev 3 PCB.  This is a TinyShield board that has a microSD connector, local power supply and level shifters to connect to a microSD card and an audio amplifier.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
